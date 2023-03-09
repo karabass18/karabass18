@@ -1,4 +1,7 @@
-### Hi there 👋
+## About me  
+
+I have completed the course of test automation from **qa.guru** ( java + selenide)
+and the course of QA engeneer from **Yandex.Praсticum**
 
 <!--
 **karabass18/karabass18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
